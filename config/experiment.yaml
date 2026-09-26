@@ -1,0 +1,22 @@
+seed: 42
+dataset_sha256: 9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc
+experiment_name: steel-energy-assignment2
+registered_model: steel-energy-interval-forecast
+folds:
+  - ["2018-07-01", "2018-08-01"]
+  - ["2018-08-01", "2018-09-01"]
+  - ["2018-09-01", "2018-10-01"]
+calibration: ["2018-10-01", "2018-11-01"]
+test: ["2018-11-01", "2019-01-01"]
+alert_margins: [0, 2, 4, 6, 8, 10]
+models:
+  - {id: E01, kind: baseline, lag: 2, features: full}
+  - {id: E02, kind: baseline, lag: 96, features: full}
+  - {id: E03, kind: baseline, lag: 672, features: full}
+  - {id: E04, kind: ridge, alpha: 1.0, features: full}
+  - {id: E05, kind: rf, n_estimators: 200, max_depth: 8, min_samples_leaf: 5, features: full}
+  - {id: E06, kind: rf, n_estimators: 200, max_depth: null, min_samples_leaf: 2, features: full}
+  - {id: E07, kind: hgb, max_iter: 300, learning_rate: 0.05, max_leaf_nodes: 15, l2_regularization: 1.0, features: full}
+  - {id: E08, kind: hgb, max_iter: 300, learning_rate: 0.05, max_leaf_nodes: 31, l2_regularization: 1.0, features: full}
+  - {id: E09, kind: hgb, max_iter: 300, learning_rate: 0.10, max_leaf_nodes: 31, l2_regularization: 1.0, features: full}
+  - {id: E10, kind: hgb, max_iter: 300, learning_rate: 0.05, max_leaf_nodes: 31, l2_regularization: 1.0, features: short}

@@ -1,0 +1,15 @@
+{
+  "browser": "Chrome headless via Playwright",
+  "desktop": [
+    1440,
+    1000
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "date_options": 61,
+  "replay": "Forecast: 3.833 kWh / average 15.33 kW. Browser round trip: 35 ms. Model v1. Advisory disabled; production approval: false.",
+  "mobile_page_overflow": false,
+  "javascript_errors": []
+}

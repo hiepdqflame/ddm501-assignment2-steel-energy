@@ -1,0 +1,72 @@
+{
+  "identity": {
+    "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+    "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+    "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  },
+  "selected_id": "E06",
+  "baseline_id": "E01",
+  "metrics": {
+    "mae": 4.703003712105337,
+    "rmse": 9.765632323808944,
+    "wape_pct": 18.908314221142838,
+    "bias": 0.029599292742823722,
+    "n": 5856
+  },
+  "baseline_metrics": {
+    "mae": 7.515040983606558,
+    "rmse": 16.930892443127888,
+    "wape_pct": 30.214042982157967,
+    "bias": 5.4644808743185825e-05,
+    "n": 5856
+  },
+  "peak_mae": 19.28680496793719,
+  "baseline_peak_mae": 24.848531855955677,
+  "advisory": {
+    "precision": 0.7401812688821753,
+    "recall": 0.6786703601108033,
+    "true_positives": 245,
+    "false_positives": 86,
+    "false_negatives": 116,
+    "high_load_count": 361,
+    "alert_count": 331
+  },
+  "baseline_advisory_zero_margin": {
+    "precision": 0.6620498614958449,
+    "recall": 0.6620498614958449,
+    "true_positives": 239,
+    "false_positives": 122,
+    "false_negatives": 122,
+    "high_load_count": 361,
+    "alert_count": 361
+  },
+  "relative_mae_improvement_pct": 37.41878823595837,
+  "paired_mae_reduction_kwh": 2.8120372715012207,
+  "moving_block_95_ci_kwh": [
+    2.2007769624709965,
+    3.53491158067984
+  ],
+  "inference_p95_ms": 2.4098393999921086,
+  "latency_scope": "warm single-row model call; excludes ingestion, HTTP and scheduling",
+  "gates": {
+    "forecast_pass": true,
+    "advisory_pass": false,
+    "offline_gates_pass": false,
+    "production_eligible": false,
+    "reason": "Production additionally requires a local pilot and human approval"
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.12.76-linuxkit-aarch64-with-glibc2.36",
+    "machine": "aarch64",
+    "git_commit": "git-not-installed; use source_sha256",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.7.2",
+      "mlflow": "2.22.2",
+      "scipy": "1.18.1",
+      "joblib": "1.6.0"
+    }
+  }
+}

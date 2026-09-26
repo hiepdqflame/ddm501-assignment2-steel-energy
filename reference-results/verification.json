@@ -1,0 +1,8 @@
+{
+  "registry_round_trip": "passed",
+  "compared_rows": 20,
+  "feature_rows": 34368,
+  "test_rows": 5856,
+  "model_version": "1",
+  "production_approved": false
+}

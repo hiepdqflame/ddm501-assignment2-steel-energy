@@ -1,0 +1,116 @@
+[
+  {
+    "page": 2,
+    "title": "From system design to executable evidence",
+    "scale": 1.0,
+    "height": 563.8
+  },
+  {
+    "page": 3,
+    "title": "A modular pipeline with visible gates",
+    "scale": 1.0,
+    "height": 612.0
+  },
+  {
+    "page": 4,
+    "title": "Stage inputs, outputs and quality gates",
+    "scale": 1.0,
+    "height": 526.2
+  },
+  {
+    "page": 5,
+    "title": "Temporal integrity and feature engineering",
+    "scale": 1.0,
+    "height": 527.7
+  },
+  {
+    "page": 6,
+    "title": "A predeclared ten-configuration study",
+    "scale": 1.0,
+    "height": 637.2
+  },
+  {
+    "page": 7,
+    "title": "Measured development results and selection",
+    "scale": 1.0,
+    "height": 696.6
+  },
+  {
+    "page": 8,
+    "title": "Result patterns and timestamp sensitivity",
+    "scale": 1.0,
+    "height": 608.4
+  },
+  {
+    "page": 9,
+    "title": "Locked-test evidence and its uncertainty",
+    "scale": 0.99,
+    "height": 724.8
+  },
+  {
+    "page": 10,
+    "title": "Advisory calibration and release decision",
+    "scale": 1.0,
+    "height": 695.7
+  },
+  {
+    "page": 11,
+    "title": "MLflow tracking, artifacts and model registry",
+    "scale": 1.0,
+    "height": 599.9
+  },
+  {
+    "page": 12,
+    "title": "Airflow DAG and scheduling strategy",
+    "scale": 1.0,
+    "height": 648.4
+  },
+  {
+    "page": 13,
+    "title": "Executable tasks, recovery and monitoring",
+    "scale": 1.0,
+    "height": 539.5
+  },
+  {
+    "page": 14,
+    "title": "Clear contracts, configuration and tests",
+    "scale": 1.0,
+    "height": 579.8
+  },
+  {
+    "page": 15,
+    "title": "Source, data, model and container lineage",
+    "scale": 1.0,
+    "height": 712.2
+  },
+  {
+    "page": 16,
+    "title": "Reproduce the study and inspect the evidence",
+    "scale": 1.0,
+    "height": 655.0
+  },
+  {
+    "page": 17,
+    "title": "A reproducible result with a bounded claim",
+    "scale": 1.0,
+    "height": 595.6
+  },
+  {
+    "page": 18,
+    "title": "Why the alert remains a research candidate",
+    "scale": 1.0,
+    "height": 621.8
+  },
+  {
+    "page": 19,
+    "title": "Serving performance and explicit failure behavior",
+    "scale": 1.0,
+    "height": 670.8
+  },
+  {
+    "page": 20,
+    "title": "A dashboard grounded in saved evidence",
+    "scale": 0.98,
+    "height": 721.1
+  }
+]

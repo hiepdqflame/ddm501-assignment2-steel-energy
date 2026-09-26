@@ -1,0 +1,11 @@
+{
+  "checked_at_utc": "2026-09-25T16:32:12Z",
+  "http_concurrent_fixture_requests": 24,
+  "cached_loads_before_update": 1,
+  "bad_request_422": "passed",
+  "corruption_503_and_recovery": "passed",
+  "registry_unavailability_and_recovery": "passed",
+  "registry_round_trip": "passed",
+  "fixture_scope": "temporary integration only",
+  "hosted_ci": "not executed"
+}

@@ -1,0 +1,299 @@
+{
+  "diagnostics": {
+    "scope": "Descriptive locked-test analysis only; no model or alert retuning",
+    "missed_intervals": 116,
+    "missed_episodes": 81,
+    "longest_missed_episode_intervals": 3,
+    "mean_signed_error_kwh": -25.481559710886575,
+    "median_ramp_from_last_available_kwh": 25.470000000000002,
+    "rising_misses": 108,
+    "hourly": [
+      {
+        "hour": 0,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 1,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 2,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 3,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 4,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 5,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 6,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 7,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 8,
+        "missed": 18,
+        "high_load": 36
+      },
+      {
+        "hour": 9,
+        "missed": 7,
+        "high_load": 42
+      },
+      {
+        "hour": 10,
+        "missed": 10,
+        "high_load": 38
+      },
+      {
+        "hour": 11,
+        "missed": 13,
+        "high_load": 41
+      },
+      {
+        "hour": 12,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 13,
+        "missed": 10,
+        "high_load": 32
+      },
+      {
+        "hour": 14,
+        "missed": 14,
+        "high_load": 44
+      },
+      {
+        "hour": 15,
+        "missed": 10,
+        "high_load": 37
+      },
+      {
+        "hour": 16,
+        "missed": 16,
+        "high_load": 43
+      },
+      {
+        "hour": 17,
+        "missed": 1,
+        "high_load": 13
+      },
+      {
+        "hour": 18,
+        "missed": 7,
+        "high_load": 10
+      },
+      {
+        "hour": 19,
+        "missed": 7,
+        "high_load": 15
+      },
+      {
+        "hour": 20,
+        "missed": 3,
+        "high_load": 10
+      },
+      {
+        "hour": 21,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 22,
+        "missed": 0,
+        "high_load": 0
+      },
+      {
+        "hour": 23,
+        "missed": 0,
+        "high_load": 0
+      }
+    ],
+    "largest_misses": [
+      {
+        "interval_start": "2018-12-19 11:00:00",
+        "interval_end": "2018-12-19 11:15:00",
+        "issue_time": "2018-12-19 10:46:00",
+        "energy": 140.8,
+        "prediction": 62.43285436507933,
+        "baseline": 63.68,
+        "ramp_kwh": 77.12,
+        "signed_error_kwh": -78.36714563492069,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-12-18 14:15:00",
+        "interval_end": "2018-12-18 14:30:00",
+        "issue_time": "2018-12-18 14:01:00",
+        "energy": 113.51,
+        "prediction": 57.659707678571465,
+        "baseline": 62.46,
+        "ramp_kwh": 51.050000000000004,
+        "signed_error_kwh": -55.85029232142854,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-21 18:15:00",
+        "interval_end": "2018-11-21 18:30:00",
+        "issue_time": "2018-11-21 18:01:00",
+        "energy": 127.4,
+        "prediction": 72.35574857142858,
+        "baseline": 33.77,
+        "ramp_kwh": 93.63,
+        "signed_error_kwh": -55.04425142857143,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-14 16:30:00",
+        "interval_end": "2018-11-14 16:45:00",
+        "issue_time": "2018-11-14 16:16:00",
+        "energy": 120.85,
+        "prediction": 66.1651281150794,
+        "baseline": 69.41,
+        "ramp_kwh": 51.44,
+        "signed_error_kwh": -54.6848718849206,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-08 16:15:00",
+        "interval_end": "2018-11-08 16:30:00",
+        "issue_time": "2018-11-08 16:01:00",
+        "energy": 109.08,
+        "prediction": 58.57409373015872,
+        "baseline": 54.04,
+        "ramp_kwh": 55.04,
+        "signed_error_kwh": -50.505906269841276,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-12-05 15:00:00",
+        "interval_end": "2018-12-05 15:15:00",
+        "issue_time": "2018-12-05 14:46:00",
+        "energy": 109.3,
+        "prediction": 59.07466976190474,
+        "baseline": 58.93,
+        "ramp_kwh": 50.37,
+        "signed_error_kwh": -50.22533023809526,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-04 09:30:00",
+        "interval_end": "2018-11-04 09:45:00",
+        "issue_time": "2018-11-04 09:16:00",
+        "energy": 83.12,
+        "prediction": 33.94293458333334,
+        "baseline": 40.93,
+        "ramp_kwh": 42.190000000000005,
+        "signed_error_kwh": -49.177065416666665,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-13 16:45:00",
+        "interval_end": "2018-11-13 17:00:00",
+        "issue_time": "2018-11-13 16:31:00",
+        "energy": 114.91,
+        "prediction": 66.35598142857145,
+        "baseline": 53.06,
+        "ramp_kwh": 61.849999999999994,
+        "signed_error_kwh": -48.55401857142854,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-12 15:45:00",
+        "interval_end": "2018-11-12 16:00:00",
+        "issue_time": "2018-11-12 15:31:00",
+        "energy": 115.13,
+        "prediction": 66.73725281746033,
+        "baseline": 61.96,
+        "ramp_kwh": 53.169999999999995,
+        "signed_error_kwh": -48.392747182539665,
+        "missed": true
+      },
+      {
+        "interval_start": "2018-11-03 10:00:00",
+        "interval_end": "2018-11-03 10:15:00",
+        "issue_time": "2018-11-03 09:46:00",
+        "energy": 92.41,
+        "prediction": 45.4292972727273,
+        "baseline": 57.24,
+        "ramp_kwh": 35.169999999999995,
+        "signed_error_kwh": -46.9807027272727,
+        "missed": true
+      }
+    ]
+  },
+  "importance": {
+    "scope": "October calibration only; frozen model; grouped 4-hour block permutation, 5 repeats, seed 42. Correlated features and off-manifold inputs limit causal interpretation; repeat SD is not a confidence interval.",
+    "baseline_mae": 6.228863164005666,
+    "rows": [
+      {
+        "group": "Recent energy (30-90 min)",
+        "mae_increase_kwh": 17.87429618401193,
+        "repeat_std_kwh": 0.6148776677161654,
+        "repeats": 5
+      },
+      {
+        "group": "Time of day",
+        "mae_increase_kwh": 3.9770229681223754,
+        "repeat_std_kwh": 0.21203529500665477,
+        "repeats": 5
+      },
+      {
+        "group": "Previous week",
+        "mae_increase_kwh": 1.2423331606172536,
+        "repeat_std_kwh": 0.10183197271710431,
+        "repeats": 5
+      },
+      {
+        "group": "Rolling means",
+        "mae_increase_kwh": 0.8738753225640661,
+        "repeat_std_kwh": 0.09690995469726642,
+        "repeats": 5
+      },
+      {
+        "group": "Previous day",
+        "mae_increase_kwh": 0.48273817639853345,
+        "repeat_std_kwh": 0.1072784749857157,
+        "repeats": 5
+      },
+      {
+        "group": "Earlier energy (135-255 min)",
+        "mae_increase_kwh": 0.19616932405489357,
+        "repeat_std_kwh": 0.01329335149559008,
+        "repeats": 5
+      },
+      {
+        "group": "Day of week",
+        "mae_increase_kwh": 0.09025898193201876,
+        "repeat_std_kwh": 0.017704934704113415,
+        "repeats": 5
+      }
+    ]
+  },
+  "provenance": {
+    "frozen.json": "2d570249a04f380df92cf720a98e416b8ca35e3b184ee1536441dc9a4c87bece",
+    "model.joblib": "03524cb699ff86c6caa1564a29bc488c21a634b69fecb17c7169913c316fa599",
+    "test-predictions.csv": "611c8dc8514e922a6a9fe27c2a54aff1b4e6d78cf09b00b3f7add0231e8cb50b",
+    "final-results.json": "135b0a77e67dc0fdab9f9ffd26c5d05fb213eed7e2b7fb0638f36148ffb4f347"
+  }
+}

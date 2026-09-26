@@ -1,0 +1,8 @@
+# Keep source and configuration identical on Windows, macOS and Linux.
+* text=auto eol=lf
+
+# Byte-addressed evidence must never undergo line-ending normalization.
+data/raw/Steel_industry_data.csv -text
+reference-results/** -text
+*.pdf binary
+*.png binary

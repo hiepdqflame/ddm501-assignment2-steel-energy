@@ -1,0 +1,2694 @@
+{
+  "target_start": "2018-11-01 00:00",
+  "issued_at": "2018-10-31 23:46",
+  "history": [
+    {
+      "interval_end": "2018-10-25 00:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-25 00:15:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-25 00:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-25 00:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 01:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-25 01:15:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-25 01:30:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-25 01:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 02:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-25 02:15:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-25 02:30:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-25 02:45:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-25 03:00:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-25 03:15:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 03:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 03:45:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-25 04:00:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-25 04:15:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 04:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 04:45:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-25 05:00:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-25 05:15:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-25 05:30:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-25 05:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-25 06:00:00",
+      "energy": 3.35
+    },
+    {
+      "interval_end": "2018-10-25 06:15:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-25 06:30:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-25 06:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-25 07:00:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-25 07:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-25 07:30:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-25 07:45:00",
+      "energy": 4.43
+    },
+    {
+      "interval_end": "2018-10-25 08:00:00",
+      "energy": 5.9
+    },
+    {
+      "interval_end": "2018-10-25 08:15:00",
+      "energy": 36.58
+    },
+    {
+      "interval_end": "2018-10-25 08:30:00",
+      "energy": 54.36
+    },
+    {
+      "interval_end": "2018-10-25 08:45:00",
+      "energy": 76.25
+    },
+    {
+      "interval_end": "2018-10-25 09:00:00",
+      "energy": 74.56
+    },
+    {
+      "interval_end": "2018-10-25 09:15:00",
+      "energy": 64.84
+    },
+    {
+      "interval_end": "2018-10-25 09:30:00",
+      "energy": 55.26
+    },
+    {
+      "interval_end": "2018-10-25 09:45:00",
+      "energy": 84.06
+    },
+    {
+      "interval_end": "2018-10-25 10:00:00",
+      "energy": 67.79
+    },
+    {
+      "interval_end": "2018-10-25 10:15:00",
+      "energy": 78.12
+    },
+    {
+      "interval_end": "2018-10-25 10:30:00",
+      "energy": 58.72
+    },
+    {
+      "interval_end": "2018-10-25 10:45:00",
+      "energy": 70.2
+    },
+    {
+      "interval_end": "2018-10-25 11:00:00",
+      "energy": 67.43
+    },
+    {
+      "interval_end": "2018-10-25 11:15:00",
+      "energy": 74.34
+    },
+    {
+      "interval_end": "2018-10-25 11:30:00",
+      "energy": 58.93
+    },
+    {
+      "interval_end": "2018-10-25 11:45:00",
+      "energy": 79.92
+    },
+    {
+      "interval_end": "2018-10-25 12:00:00",
+      "energy": 52.45
+    },
+    {
+      "interval_end": "2018-10-25 12:15:00",
+      "energy": 8.46
+    },
+    {
+      "interval_end": "2018-10-25 12:30:00",
+      "energy": 5.83
+    },
+    {
+      "interval_end": "2018-10-25 12:45:00",
+      "energy": 4.93
+    },
+    {
+      "interval_end": "2018-10-25 13:00:00",
+      "energy": 4.68
+    },
+    {
+      "interval_end": "2018-10-25 13:15:00",
+      "energy": 29.48
+    },
+    {
+      "interval_end": "2018-10-25 13:30:00",
+      "energy": 50.26
+    },
+    {
+      "interval_end": "2018-10-25 13:45:00",
+      "energy": 58.36
+    },
+    {
+      "interval_end": "2018-10-25 14:00:00",
+      "energy": 59.15
+    },
+    {
+      "interval_end": "2018-10-25 14:15:00",
+      "energy": 54.97
+    },
+    {
+      "interval_end": "2018-10-25 14:30:00",
+      "energy": 60.16
+    },
+    {
+      "interval_end": "2018-10-25 14:45:00",
+      "energy": 58.28
+    },
+    {
+      "interval_end": "2018-10-25 15:00:00",
+      "energy": 60.23
+    },
+    {
+      "interval_end": "2018-10-25 15:15:00",
+      "energy": 47.41
+    },
+    {
+      "interval_end": "2018-10-25 15:30:00",
+      "energy": 47.38
+    },
+    {
+      "interval_end": "2018-10-25 15:45:00",
+      "energy": 66.53
+    },
+    {
+      "interval_end": "2018-10-25 16:00:00",
+      "energy": 66.28
+    },
+    {
+      "interval_end": "2018-10-25 16:15:00",
+      "energy": 60.37
+    },
+    {
+      "interval_end": "2018-10-25 16:30:00",
+      "energy": 57.67
+    },
+    {
+      "interval_end": "2018-10-25 16:45:00",
+      "energy": 57.42
+    },
+    {
+      "interval_end": "2018-10-25 17:00:00",
+      "energy": 46.84
+    },
+    {
+      "interval_end": "2018-10-25 17:15:00",
+      "energy": 60.19
+    },
+    {
+      "interval_end": "2018-10-25 17:30:00",
+      "energy": 51.73
+    },
+    {
+      "interval_end": "2018-10-25 17:45:00",
+      "energy": 29.84
+    },
+    {
+      "interval_end": "2018-10-25 18:00:00",
+      "energy": 30.02
+    },
+    {
+      "interval_end": "2018-10-25 18:15:00",
+      "energy": 51.98
+    },
+    {
+      "interval_end": "2018-10-25 18:30:00",
+      "energy": 57.6
+    },
+    {
+      "interval_end": "2018-10-25 18:45:00",
+      "energy": 65.12
+    },
+    {
+      "interval_end": "2018-10-25 19:00:00",
+      "energy": 67.32
+    },
+    {
+      "interval_end": "2018-10-25 19:15:00",
+      "energy": 48.49
+    },
+    {
+      "interval_end": "2018-10-25 19:30:00",
+      "energy": 51.3
+    },
+    {
+      "interval_end": "2018-10-25 19:45:00",
+      "energy": 56.34
+    },
+    {
+      "interval_end": "2018-10-25 20:00:00",
+      "energy": 57.06
+    },
+    {
+      "interval_end": "2018-10-25 20:15:00",
+      "energy": 53.5
+    },
+    {
+      "interval_end": "2018-10-25 20:30:00",
+      "energy": 56.66
+    },
+    {
+      "interval_end": "2018-10-25 20:45:00",
+      "energy": 81.0
+    },
+    {
+      "interval_end": "2018-10-25 21:00:00",
+      "energy": 75.02
+    },
+    {
+      "interval_end": "2018-10-25 21:15:00",
+      "energy": 8.89
+    },
+    {
+      "interval_end": "2018-10-25 21:30:00",
+      "energy": 4.07
+    },
+    {
+      "interval_end": "2018-10-25 21:45:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-25 22:00:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-25 22:15:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-25 22:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-25 22:45:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-25 23:00:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-25 23:15:00",
+      "energy": 3.46
+    },
+    {
+      "interval_end": "2018-10-25 23:30:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-25 23:45:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-26 00:00:00",
+      "energy": 4.1
+    },
+    {
+      "interval_end": "2018-10-26 00:15:00",
+      "energy": 4.57
+    },
+    {
+      "interval_end": "2018-10-26 00:30:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-26 00:45:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-26 01:00:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-26 01:15:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-26 01:30:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-26 01:45:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-26 02:00:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-26 02:15:00",
+      "energy": 3.35
+    },
+    {
+      "interval_end": "2018-10-26 02:30:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-26 02:45:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-26 03:00:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-26 03:15:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-26 03:30:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-26 03:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-26 04:00:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-26 04:15:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-26 04:30:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-26 04:45:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-26 05:00:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-26 05:15:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-26 05:30:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-26 05:45:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-26 06:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-26 06:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-26 06:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-26 06:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-26 07:00:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-26 07:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-26 07:30:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-26 07:45:00",
+      "energy": 5.9
+    },
+    {
+      "interval_end": "2018-10-26 08:00:00",
+      "energy": 5.54
+    },
+    {
+      "interval_end": "2018-10-26 08:15:00",
+      "energy": 25.99
+    },
+    {
+      "interval_end": "2018-10-26 08:30:00",
+      "energy": 100.69
+    },
+    {
+      "interval_end": "2018-10-26 08:45:00",
+      "energy": 80.68
+    },
+    {
+      "interval_end": "2018-10-26 09:00:00",
+      "energy": 104.65
+    },
+    {
+      "interval_end": "2018-10-26 09:15:00",
+      "energy": 121.18
+    },
+    {
+      "interval_end": "2018-10-26 09:30:00",
+      "energy": 106.06
+    },
+    {
+      "interval_end": "2018-10-26 09:45:00",
+      "energy": 106.52
+    },
+    {
+      "interval_end": "2018-10-26 10:00:00",
+      "energy": 122.69
+    },
+    {
+      "interval_end": "2018-10-26 10:15:00",
+      "energy": 93.2
+    },
+    {
+      "interval_end": "2018-10-26 10:30:00",
+      "energy": 52.45
+    },
+    {
+      "interval_end": "2018-10-26 10:45:00",
+      "energy": 74.27
+    },
+    {
+      "interval_end": "2018-10-26 11:00:00",
+      "energy": 60.26
+    },
+    {
+      "interval_end": "2018-10-26 11:15:00",
+      "energy": 72.18
+    },
+    {
+      "interval_end": "2018-10-26 11:30:00",
+      "energy": 72.9
+    },
+    {
+      "interval_end": "2018-10-26 11:45:00",
+      "energy": 65.2
+    },
+    {
+      "interval_end": "2018-10-26 12:00:00",
+      "energy": 60.23
+    },
+    {
+      "interval_end": "2018-10-26 12:15:00",
+      "energy": 8.39
+    },
+    {
+      "interval_end": "2018-10-26 12:30:00",
+      "energy": 4.32
+    },
+    {
+      "interval_end": "2018-10-26 12:45:00",
+      "energy": 4.68
+    },
+    {
+      "interval_end": "2018-10-26 13:00:00",
+      "energy": 4.28
+    },
+    {
+      "interval_end": "2018-10-26 13:15:00",
+      "energy": 33.66
+    },
+    {
+      "interval_end": "2018-10-26 13:30:00",
+      "energy": 66.02
+    },
+    {
+      "interval_end": "2018-10-26 13:45:00",
+      "energy": 63.76
+    },
+    {
+      "interval_end": "2018-10-26 14:00:00",
+      "energy": 68.11
+    },
+    {
+      "interval_end": "2018-10-26 14:15:00",
+      "energy": 69.91
+    },
+    {
+      "interval_end": "2018-10-26 14:30:00",
+      "energy": 55.55
+    },
+    {
+      "interval_end": "2018-10-26 14:45:00",
+      "energy": 52.34
+    },
+    {
+      "interval_end": "2018-10-26 15:00:00",
+      "energy": 58.64
+    },
+    {
+      "interval_end": "2018-10-26 15:15:00",
+      "energy": 67.61
+    },
+    {
+      "interval_end": "2018-10-26 15:30:00",
+      "energy": 45.36
+    },
+    {
+      "interval_end": "2018-10-26 15:45:00",
+      "energy": 49.1
+    },
+    {
+      "interval_end": "2018-10-26 16:00:00",
+      "energy": 58.07
+    },
+    {
+      "interval_end": "2018-10-26 16:15:00",
+      "energy": 50.44
+    },
+    {
+      "interval_end": "2018-10-26 16:30:00",
+      "energy": 48.06
+    },
+    {
+      "interval_end": "2018-10-26 16:45:00",
+      "energy": 55.62
+    },
+    {
+      "interval_end": "2018-10-26 17:00:00",
+      "energy": 47.12
+    },
+    {
+      "interval_end": "2018-10-26 17:15:00",
+      "energy": 54.86
+    },
+    {
+      "interval_end": "2018-10-26 17:30:00",
+      "energy": 62.53
+    },
+    {
+      "interval_end": "2018-10-26 17:45:00",
+      "energy": 31.5
+    },
+    {
+      "interval_end": "2018-10-26 18:00:00",
+      "energy": 31.21
+    },
+    {
+      "interval_end": "2018-10-26 18:15:00",
+      "energy": 39.92
+    },
+    {
+      "interval_end": "2018-10-26 18:30:00",
+      "energy": 51.77
+    },
+    {
+      "interval_end": "2018-10-26 18:45:00",
+      "energy": 52.06
+    },
+    {
+      "interval_end": "2018-10-26 19:00:00",
+      "energy": 51.12
+    },
+    {
+      "interval_end": "2018-10-26 19:15:00",
+      "energy": 63.14
+    },
+    {
+      "interval_end": "2018-10-26 19:30:00",
+      "energy": 65.02
+    },
+    {
+      "interval_end": "2018-10-26 19:45:00",
+      "energy": 51.37
+    },
+    {
+      "interval_end": "2018-10-26 20:00:00",
+      "energy": 58.72
+    },
+    {
+      "interval_end": "2018-10-26 20:15:00",
+      "energy": 51.12
+    },
+    {
+      "interval_end": "2018-10-26 20:30:00",
+      "energy": 49.97
+    },
+    {
+      "interval_end": "2018-10-26 20:45:00",
+      "energy": 60.26
+    },
+    {
+      "interval_end": "2018-10-26 21:00:00",
+      "energy": 47.02
+    },
+    {
+      "interval_end": "2018-10-26 21:15:00",
+      "energy": 5.72
+    },
+    {
+      "interval_end": "2018-10-26 21:30:00",
+      "energy": 5.04
+    },
+    {
+      "interval_end": "2018-10-26 21:45:00",
+      "energy": 4.07
+    },
+    {
+      "interval_end": "2018-10-26 22:00:00",
+      "energy": 3.96
+    },
+    {
+      "interval_end": "2018-10-26 22:15:00",
+      "energy": 3.78
+    },
+    {
+      "interval_end": "2018-10-26 22:30:00",
+      "energy": 3.85
+    },
+    {
+      "interval_end": "2018-10-26 22:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-26 23:00:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-26 23:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-26 23:30:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-26 23:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 00:00:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-27 00:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 00:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 00:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 01:00:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 01:15:00",
+      "energy": 3.74
+    },
+    {
+      "interval_end": "2018-10-27 01:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 01:45:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 02:00:00",
+      "energy": 4.5
+    },
+    {
+      "interval_end": "2018-10-27 02:15:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-27 02:30:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-27 02:45:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 03:00:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-27 03:15:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 03:30:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 03:45:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 04:00:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-27 04:15:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-27 04:30:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 04:45:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-27 05:00:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-27 05:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 05:30:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-27 05:45:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-27 06:00:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-27 06:15:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-27 06:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 06:45:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-27 07:00:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-27 07:15:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-27 07:30:00",
+      "energy": 3.24
+    },
+    {
+      "interval_end": "2018-10-27 07:45:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-27 08:00:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-27 08:15:00",
+      "energy": 30.74
+    },
+    {
+      "interval_end": "2018-10-27 08:30:00",
+      "energy": 46.55
+    },
+    {
+      "interval_end": "2018-10-27 08:45:00",
+      "energy": 47.02
+    },
+    {
+      "interval_end": "2018-10-27 09:00:00",
+      "energy": 45.72
+    },
+    {
+      "interval_end": "2018-10-27 09:15:00",
+      "energy": 46.15
+    },
+    {
+      "interval_end": "2018-10-27 09:30:00",
+      "energy": 44.71
+    },
+    {
+      "interval_end": "2018-10-27 09:45:00",
+      "energy": 45.25
+    },
+    {
+      "interval_end": "2018-10-27 10:00:00",
+      "energy": 46.08
+    },
+    {
+      "interval_end": "2018-10-27 10:15:00",
+      "energy": 42.34
+    },
+    {
+      "interval_end": "2018-10-27 10:30:00",
+      "energy": 48.6
+    },
+    {
+      "interval_end": "2018-10-27 10:45:00",
+      "energy": 37.48
+    },
+    {
+      "interval_end": "2018-10-27 11:00:00",
+      "energy": 40.36
+    },
+    {
+      "interval_end": "2018-10-27 11:15:00",
+      "energy": 46.58
+    },
+    {
+      "interval_end": "2018-10-27 11:30:00",
+      "energy": 45.58
+    },
+    {
+      "interval_end": "2018-10-27 11:45:00",
+      "energy": 47.3
+    },
+    {
+      "interval_end": "2018-10-27 12:00:00",
+      "energy": 23.0
+    },
+    {
+      "interval_end": "2018-10-27 12:15:00",
+      "energy": 3.82
+    },
+    {
+      "interval_end": "2018-10-27 12:30:00",
+      "energy": 4.46
+    },
+    {
+      "interval_end": "2018-10-27 12:45:00",
+      "energy": 5.54
+    },
+    {
+      "interval_end": "2018-10-27 13:00:00",
+      "energy": 4.97
+    },
+    {
+      "interval_end": "2018-10-27 13:15:00",
+      "energy": 29.66
+    },
+    {
+      "interval_end": "2018-10-27 13:30:00",
+      "energy": 37.76
+    },
+    {
+      "interval_end": "2018-10-27 13:45:00",
+      "energy": 36.9
+    },
+    {
+      "interval_end": "2018-10-27 14:00:00",
+      "energy": 48.85
+    },
+    {
+      "interval_end": "2018-10-27 14:15:00",
+      "energy": 39.92
+    },
+    {
+      "interval_end": "2018-10-27 14:30:00",
+      "energy": 47.09
+    },
+    {
+      "interval_end": "2018-10-27 14:45:00",
+      "energy": 34.42
+    },
+    {
+      "interval_end": "2018-10-27 15:00:00",
+      "energy": 43.63
+    },
+    {
+      "interval_end": "2018-10-27 15:15:00",
+      "energy": 50.18
+    },
+    {
+      "interval_end": "2018-10-27 15:30:00",
+      "energy": 40.54
+    },
+    {
+      "interval_end": "2018-10-27 15:45:00",
+      "energy": 53.89
+    },
+    {
+      "interval_end": "2018-10-27 16:00:00",
+      "energy": 53.5
+    },
+    {
+      "interval_end": "2018-10-27 16:15:00",
+      "energy": 49.39
+    },
+    {
+      "interval_end": "2018-10-27 16:30:00",
+      "energy": 41.87
+    },
+    {
+      "interval_end": "2018-10-27 16:45:00",
+      "energy": 48.31
+    },
+    {
+      "interval_end": "2018-10-27 17:00:00",
+      "energy": 9.07
+    },
+    {
+      "interval_end": "2018-10-27 17:15:00",
+      "energy": 5.04
+    },
+    {
+      "interval_end": "2018-10-27 17:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 17:45:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-27 18:00:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-27 18:15:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-27 18:30:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-27 18:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 19:00:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 19:15:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-27 19:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 19:45:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-27 20:00:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-27 20:15:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 20:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 20:45:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 21:00:00",
+      "energy": 4.14
+    },
+    {
+      "interval_end": "2018-10-27 21:15:00",
+      "energy": 4.61
+    },
+    {
+      "interval_end": "2018-10-27 21:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 21:45:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-27 22:00:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-27 22:15:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-27 22:30:00",
+      "energy": 3.35
+    },
+    {
+      "interval_end": "2018-10-27 22:45:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-27 23:00:00",
+      "energy": 3.35
+    },
+    {
+      "interval_end": "2018-10-27 23:15:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-27 23:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-27 23:45:00",
+      "energy": 2.7
+    },
+    {
+      "interval_end": "2018-10-28 00:00:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 00:15:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 00:30:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 00:45:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-28 01:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 01:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 01:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 01:45:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 02:00:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 02:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 02:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 02:45:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-28 03:00:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 03:15:00",
+      "energy": 3.46
+    },
+    {
+      "interval_end": "2018-10-28 03:30:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-28 03:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 04:00:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 04:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 04:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 04:45:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 05:00:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-28 05:15:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-28 05:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 05:45:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 06:00:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-28 06:15:00",
+      "energy": 3.35
+    },
+    {
+      "interval_end": "2018-10-28 06:30:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-28 06:45:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 07:00:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 07:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 07:30:00",
+      "energy": 2.7
+    },
+    {
+      "interval_end": "2018-10-28 07:45:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-28 08:00:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 08:15:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-28 08:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-28 08:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 09:00:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-28 09:15:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-28 09:30:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-28 09:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 10:00:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-28 10:15:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 10:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 10:45:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 11:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 11:15:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 11:30:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-28 11:45:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 12:00:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 12:15:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-28 12:30:00",
+      "energy": 3.74
+    },
+    {
+      "interval_end": "2018-10-28 12:45:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-28 13:00:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-28 13:15:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-28 13:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-28 13:45:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-28 14:00:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 14:15:00",
+      "energy": 3.1
+    },
+    {
+      "interval_end": "2018-10-28 14:30:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 14:45:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 15:00:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 15:15:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 15:30:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-28 15:45:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-28 16:00:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-28 16:15:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 16:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 16:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 17:00:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 17:15:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 17:30:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 17:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 18:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-28 18:15:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 18:30:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-28 18:45:00",
+      "energy": 4.82
+    },
+    {
+      "interval_end": "2018-10-28 19:00:00",
+      "energy": 3.49
+    },
+    {
+      "interval_end": "2018-10-28 19:15:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 19:30:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 19:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 20:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-28 20:15:00",
+      "energy": 3.06
+    },
+    {
+      "interval_end": "2018-10-28 20:30:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 20:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 21:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 21:15:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 21:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-28 21:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-28 22:00:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-28 22:15:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-28 22:30:00",
+      "energy": 3.31
+    },
+    {
+      "interval_end": "2018-10-28 22:45:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-28 23:00:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-28 23:15:00",
+      "energy": 3.13
+    },
+    {
+      "interval_end": "2018-10-28 23:30:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-28 23:45:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 00:00:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-29 00:15:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 00:30:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 00:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-29 01:00:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-29 01:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 01:30:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-29 01:45:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-29 02:00:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 02:15:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 02:30:00",
+      "energy": 3.24
+    },
+    {
+      "interval_end": "2018-10-29 02:45:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-29 03:00:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 03:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 03:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 03:45:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 04:00:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 04:15:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-29 04:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-29 04:45:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 05:00:00",
+      "energy": 2.77
+    },
+    {
+      "interval_end": "2018-10-29 05:15:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-29 05:30:00",
+      "energy": 3.17
+    },
+    {
+      "interval_end": "2018-10-29 05:45:00",
+      "energy": 2.74
+    },
+    {
+      "interval_end": "2018-10-29 06:00:00",
+      "energy": 2.7
+    },
+    {
+      "interval_end": "2018-10-29 06:15:00",
+      "energy": 2.66
+    },
+    {
+      "interval_end": "2018-10-29 06:30:00",
+      "energy": 2.7
+    },
+    {
+      "interval_end": "2018-10-29 06:45:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-29 07:00:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-29 07:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-29 07:30:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-29 07:45:00",
+      "energy": 4.0
+    },
+    {
+      "interval_end": "2018-10-29 08:00:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-29 08:15:00",
+      "energy": 23.72
+    },
+    {
+      "interval_end": "2018-10-29 08:30:00",
+      "energy": 68.29
+    },
+    {
+      "interval_end": "2018-10-29 08:45:00",
+      "energy": 57.96
+    },
+    {
+      "interval_end": "2018-10-29 09:00:00",
+      "energy": 67.82
+    },
+    {
+      "interval_end": "2018-10-29 09:15:00",
+      "energy": 107.64
+    },
+    {
+      "interval_end": "2018-10-29 09:30:00",
+      "energy": 101.23
+    },
+    {
+      "interval_end": "2018-10-29 09:45:00",
+      "energy": 112.0
+    },
+    {
+      "interval_end": "2018-10-29 10:00:00",
+      "energy": 93.74
+    },
+    {
+      "interval_end": "2018-10-29 10:15:00",
+      "energy": 94.93
+    },
+    {
+      "interval_end": "2018-10-29 10:30:00",
+      "energy": 113.51
+    },
+    {
+      "interval_end": "2018-10-29 10:45:00",
+      "energy": 78.44
+    },
+    {
+      "interval_end": "2018-10-29 11:00:00",
+      "energy": 111.2
+    },
+    {
+      "interval_end": "2018-10-29 11:15:00",
+      "energy": 90.83
+    },
+    {
+      "interval_end": "2018-10-29 11:30:00",
+      "energy": 107.93
+    },
+    {
+      "interval_end": "2018-10-29 11:45:00",
+      "energy": 88.42
+    },
+    {
+      "interval_end": "2018-10-29 12:00:00",
+      "energy": 87.3
+    },
+    {
+      "interval_end": "2018-10-29 12:15:00",
+      "energy": 5.33
+    },
+    {
+      "interval_end": "2018-10-29 12:30:00",
+      "energy": 6.01
+    },
+    {
+      "interval_end": "2018-10-29 12:45:00",
+      "energy": 6.01
+    },
+    {
+      "interval_end": "2018-10-29 13:00:00",
+      "energy": 5.29
+    },
+    {
+      "interval_end": "2018-10-29 13:15:00",
+      "energy": 61.56
+    },
+    {
+      "interval_end": "2018-10-29 13:30:00",
+      "energy": 89.46
+    },
+    {
+      "interval_end": "2018-10-29 13:45:00",
+      "energy": 101.48
+    },
+    {
+      "interval_end": "2018-10-29 14:00:00",
+      "energy": 87.98
+    },
+    {
+      "interval_end": "2018-10-29 14:15:00",
+      "energy": 118.15
+    },
+    {
+      "interval_end": "2018-10-29 14:30:00",
+      "energy": 83.16
+    },
+    {
+      "interval_end": "2018-10-29 14:45:00",
+      "energy": 77.33
+    },
+    {
+      "interval_end": "2018-10-29 15:00:00",
+      "energy": 83.48
+    },
+    {
+      "interval_end": "2018-10-29 15:15:00",
+      "energy": 109.15
+    },
+    {
+      "interval_end": "2018-10-29 15:30:00",
+      "energy": 88.96
+    },
+    {
+      "interval_end": "2018-10-29 15:45:00",
+      "energy": 111.31
+    },
+    {
+      "interval_end": "2018-10-29 16:00:00",
+      "energy": 115.24
+    },
+    {
+      "interval_end": "2018-10-29 16:15:00",
+      "energy": 73.76
+    },
+    {
+      "interval_end": "2018-10-29 16:30:00",
+      "energy": 134.6
+    },
+    {
+      "interval_end": "2018-10-29 16:45:00",
+      "energy": 101.27
+    },
+    {
+      "interval_end": "2018-10-29 17:00:00",
+      "energy": 75.06
+    },
+    {
+      "interval_end": "2018-10-29 17:15:00",
+      "energy": 55.58
+    },
+    {
+      "interval_end": "2018-10-29 17:30:00",
+      "energy": 59.94
+    },
+    {
+      "interval_end": "2018-10-29 17:45:00",
+      "energy": 31.39
+    },
+    {
+      "interval_end": "2018-10-29 18:00:00",
+      "energy": 30.64
+    },
+    {
+      "interval_end": "2018-10-29 18:15:00",
+      "energy": 47.38
+    },
+    {
+      "interval_end": "2018-10-29 18:30:00",
+      "energy": 59.18
+    },
+    {
+      "interval_end": "2018-10-29 18:45:00",
+      "energy": 72.43
+    },
+    {
+      "interval_end": "2018-10-29 19:00:00",
+      "energy": 49.72
+    },
+    {
+      "interval_end": "2018-10-29 19:15:00",
+      "energy": 47.77
+    },
+    {
+      "interval_end": "2018-10-29 19:30:00",
+      "energy": 54.86
+    },
+    {
+      "interval_end": "2018-10-29 19:45:00",
+      "energy": 57.82
+    },
+    {
+      "interval_end": "2018-10-29 20:00:00",
+      "energy": 52.02
+    },
+    {
+      "interval_end": "2018-10-29 20:15:00",
+      "energy": 61.02
+    },
+    {
+      "interval_end": "2018-10-29 20:30:00",
+      "energy": 57.42
+    },
+    {
+      "interval_end": "2018-10-29 20:45:00",
+      "energy": 48.82
+    },
+    {
+      "interval_end": "2018-10-29 21:00:00",
+      "energy": 31.5
+    },
+    {
+      "interval_end": "2018-10-29 21:15:00",
+      "energy": 22.75
+    },
+    {
+      "interval_end": "2018-10-29 21:30:00",
+      "energy": 4.03
+    },
+    {
+      "interval_end": "2018-10-29 21:45:00",
+      "energy": 4.0
+    },
+    {
+      "interval_end": "2018-10-29 22:00:00",
+      "energy": 4.0
+    },
+    {
+      "interval_end": "2018-10-29 22:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-29 22:30:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-29 22:45:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-29 23:00:00",
+      "energy": 4.68
+    },
+    {
+      "interval_end": "2018-10-29 23:15:00",
+      "energy": 4.46
+    },
+    {
+      "interval_end": "2018-10-29 23:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-29 23:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-30 00:00:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-30 00:15:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-30 00:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-30 00:45:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-30 01:00:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-30 01:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-30 01:30:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-30 01:45:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-30 02:00:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-30 02:15:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-30 02:30:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-30 02:45:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-30 03:00:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-30 03:15:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-30 03:30:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-30 03:45:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-30 04:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-30 04:15:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-30 04:30:00",
+      "energy": 3.2
+    },
+    {
+      "interval_end": "2018-10-30 04:45:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-30 05:00:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-30 05:15:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-30 05:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-30 05:45:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-30 06:00:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-30 06:15:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-30 06:30:00",
+      "energy": 2.81
+    },
+    {
+      "interval_end": "2018-10-30 06:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-30 07:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-30 07:15:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-30 07:30:00",
+      "energy": 3.78
+    },
+    {
+      "interval_end": "2018-10-30 07:45:00",
+      "energy": 4.5
+    },
+    {
+      "interval_end": "2018-10-30 08:00:00",
+      "energy": 5.15
+    },
+    {
+      "interval_end": "2018-10-30 08:15:00",
+      "energy": 26.35
+    },
+    {
+      "interval_end": "2018-10-30 08:30:00",
+      "energy": 66.46
+    },
+    {
+      "interval_end": "2018-10-30 08:45:00",
+      "energy": 54.22
+    },
+    {
+      "interval_end": "2018-10-30 09:00:00",
+      "energy": 75.49
+    },
+    {
+      "interval_end": "2018-10-30 09:15:00",
+      "energy": 68.36
+    },
+    {
+      "interval_end": "2018-10-30 09:30:00",
+      "energy": 63.25
+    },
+    {
+      "interval_end": "2018-10-30 09:45:00",
+      "energy": 66.02
+    },
+    {
+      "interval_end": "2018-10-30 10:00:00",
+      "energy": 59.76
+    },
+    {
+      "interval_end": "2018-10-30 10:15:00",
+      "energy": 55.55
+    },
+    {
+      "interval_end": "2018-10-30 10:30:00",
+      "energy": 74.3
+    },
+    {
+      "interval_end": "2018-10-30 10:45:00",
+      "energy": 64.51
+    },
+    {
+      "interval_end": "2018-10-30 11:00:00",
+      "energy": 65.77
+    },
+    {
+      "interval_end": "2018-10-30 11:15:00",
+      "energy": 61.31
+    },
+    {
+      "interval_end": "2018-10-30 11:30:00",
+      "energy": 69.91
+    },
+    {
+      "interval_end": "2018-10-30 11:45:00",
+      "energy": 61.16
+    },
+    {
+      "interval_end": "2018-10-30 12:00:00",
+      "energy": 48.74
+    },
+    {
+      "interval_end": "2018-10-30 12:15:00",
+      "energy": 4.97
+    },
+    {
+      "interval_end": "2018-10-30 12:30:00",
+      "energy": 4.93
+    },
+    {
+      "interval_end": "2018-10-30 12:45:00",
+      "energy": 4.61
+    },
+    {
+      "interval_end": "2018-10-30 13:00:00",
+      "energy": 5.62
+    },
+    {
+      "interval_end": "2018-10-30 13:15:00",
+      "energy": 34.31
+    },
+    {
+      "interval_end": "2018-10-30 13:30:00",
+      "energy": 65.09
+    },
+    {
+      "interval_end": "2018-10-30 13:45:00",
+      "energy": 57.46
+    },
+    {
+      "interval_end": "2018-10-30 14:00:00",
+      "energy": 63.5
+    },
+    {
+      "interval_end": "2018-10-30 14:15:00",
+      "energy": 65.02
+    },
+    {
+      "interval_end": "2018-10-30 14:30:00",
+      "energy": 61.63
+    },
+    {
+      "interval_end": "2018-10-30 14:45:00",
+      "energy": 59.08
+    },
+    {
+      "interval_end": "2018-10-30 15:00:00",
+      "energy": 59.76
+    },
+    {
+      "interval_end": "2018-10-30 15:15:00",
+      "energy": 54.4
+    },
+    {
+      "interval_end": "2018-10-30 15:30:00",
+      "energy": 57.78
+    },
+    {
+      "interval_end": "2018-10-30 15:45:00",
+      "energy": 59.9
+    },
+    {
+      "interval_end": "2018-10-30 16:00:00",
+      "energy": 54.97
+    },
+    {
+      "interval_end": "2018-10-30 16:15:00",
+      "energy": 70.16
+    },
+    {
+      "interval_end": "2018-10-30 16:30:00",
+      "energy": 68.98
+    },
+    {
+      "interval_end": "2018-10-30 16:45:00",
+      "energy": 57.85
+    },
+    {
+      "interval_end": "2018-10-30 17:00:00",
+      "energy": 46.3
+    },
+    {
+      "interval_end": "2018-10-30 17:15:00",
+      "energy": 61.52
+    },
+    {
+      "interval_end": "2018-10-30 17:30:00",
+      "energy": 41.8
+    },
+    {
+      "interval_end": "2018-10-30 17:45:00",
+      "energy": 30.1
+    },
+    {
+      "interval_end": "2018-10-30 18:00:00",
+      "energy": 30.89
+    },
+    {
+      "interval_end": "2018-10-30 18:15:00",
+      "energy": 36.29
+    },
+    {
+      "interval_end": "2018-10-30 18:30:00",
+      "energy": 45.14
+    },
+    {
+      "interval_end": "2018-10-30 18:45:00",
+      "energy": 67.61
+    },
+    {
+      "interval_end": "2018-10-30 19:00:00",
+      "energy": 55.66
+    },
+    {
+      "interval_end": "2018-10-30 19:15:00",
+      "energy": 52.27
+    },
+    {
+      "interval_end": "2018-10-30 19:30:00",
+      "energy": 52.6
+    },
+    {
+      "interval_end": "2018-10-30 19:45:00",
+      "energy": 59.36
+    },
+    {
+      "interval_end": "2018-10-30 20:00:00",
+      "energy": 59.08
+    },
+    {
+      "interval_end": "2018-10-30 20:15:00",
+      "energy": 51.16
+    },
+    {
+      "interval_end": "2018-10-30 20:30:00",
+      "energy": 113.98
+    },
+    {
+      "interval_end": "2018-10-30 20:45:00",
+      "energy": 110.09
+    },
+    {
+      "interval_end": "2018-10-30 21:00:00",
+      "energy": 63.4
+    },
+    {
+      "interval_end": "2018-10-30 21:15:00",
+      "energy": 4.64
+    },
+    {
+      "interval_end": "2018-10-30 21:30:00",
+      "energy": 4.43
+    },
+    {
+      "interval_end": "2018-10-30 21:45:00",
+      "energy": 4.03
+    },
+    {
+      "interval_end": "2018-10-30 22:00:00",
+      "energy": 4.07
+    },
+    {
+      "interval_end": "2018-10-30 22:15:00",
+      "energy": 3.85
+    },
+    {
+      "interval_end": "2018-10-30 22:30:00",
+      "energy": 3.82
+    },
+    {
+      "interval_end": "2018-10-30 22:45:00",
+      "energy": 4.0
+    },
+    {
+      "interval_end": "2018-10-30 23:00:00",
+      "energy": 4.54
+    },
+    {
+      "interval_end": "2018-10-30 23:15:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-30 23:30:00",
+      "energy": 3.71
+    },
+    {
+      "interval_end": "2018-10-30 23:45:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-31 00:00:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-31 00:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-31 00:30:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 00:45:00",
+      "energy": 3.67
+    },
+    {
+      "interval_end": "2018-10-31 01:00:00",
+      "energy": 3.56
+    },
+    {
+      "interval_end": "2018-10-31 01:15:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 01:30:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 01:45:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 02:00:00",
+      "energy": 4.07
+    },
+    {
+      "interval_end": "2018-10-31 02:15:00",
+      "energy": 4.72
+    },
+    {
+      "interval_end": "2018-10-31 02:30:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-31 02:45:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 03:00:00",
+      "energy": 3.6
+    },
+    {
+      "interval_end": "2018-10-31 03:15:00",
+      "energy": 3.64
+    },
+    {
+      "interval_end": "2018-10-31 03:30:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-31 03:45:00",
+      "energy": 2.99
+    },
+    {
+      "interval_end": "2018-10-31 04:00:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-31 04:15:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-31 04:30:00",
+      "energy": 3.02
+    },
+    {
+      "interval_end": "2018-10-31 04:45:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-31 05:00:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-31 05:15:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-31 05:30:00",
+      "energy": 2.92
+    },
+    {
+      "interval_end": "2018-10-31 05:45:00",
+      "energy": 3.38
+    },
+    {
+      "interval_end": "2018-10-31 06:00:00",
+      "energy": 3.53
+    },
+    {
+      "interval_end": "2018-10-31 06:15:00",
+      "energy": 2.88
+    },
+    {
+      "interval_end": "2018-10-31 06:30:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-31 06:45:00",
+      "energy": 2.84
+    },
+    {
+      "interval_end": "2018-10-31 07:00:00",
+      "energy": 3.42
+    },
+    {
+      "interval_end": "2018-10-31 07:15:00",
+      "energy": 3.28
+    },
+    {
+      "interval_end": "2018-10-31 07:30:00",
+      "energy": 2.95
+    },
+    {
+      "interval_end": "2018-10-31 07:45:00",
+      "energy": 4.39
+    },
+    {
+      "interval_end": "2018-10-31 08:00:00",
+      "energy": 4.25
+    },
+    {
+      "interval_end": "2018-10-31 08:15:00",
+      "energy": 27.79
+    },
+    {
+      "interval_end": "2018-10-31 08:30:00",
+      "energy": 59.0
+    },
+    {
+      "interval_end": "2018-10-31 08:45:00",
+      "energy": 115.56
+    },
+    {
+      "interval_end": "2018-10-31 09:00:00",
+      "energy": 139.43
+    },
+    {
+      "interval_end": "2018-10-31 09:15:00",
+      "energy": 105.88
+    },
+    {
+      "interval_end": "2018-10-31 09:30:00",
+      "energy": 64.87
+    },
+    {
+      "interval_end": "2018-10-31 09:45:00",
+      "energy": 86.98
+    },
+    {
+      "interval_end": "2018-10-31 10:00:00",
+      "energy": 124.85
+    },
+    {
+      "interval_end": "2018-10-31 10:15:00",
+      "energy": 89.21
+    },
+    {
+      "interval_end": "2018-10-31 10:30:00",
+      "energy": 77.4
+    },
+    {
+      "interval_end": "2018-10-31 10:45:00",
+      "energy": 71.71
+    },
+    {
+      "interval_end": "2018-10-31 11:00:00",
+      "energy": 111.31
+    },
+    {
+      "interval_end": "2018-10-31 11:15:00",
+      "energy": 117.47
+    },
+    {
+      "interval_end": "2018-10-31 11:30:00",
+      "energy": 103.5
+    },
+    {
+      "interval_end": "2018-10-31 11:45:00",
+      "energy": 69.37
+    },
+    {
+      "interval_end": "2018-10-31 12:00:00",
+      "energy": 97.34
+    },
+    {
+      "interval_end": "2018-10-31 12:15:00",
+      "energy": 7.02
+    },
+    {
+      "interval_end": "2018-10-31 12:30:00",
+      "energy": 6.34
+    },
+    {
+      "interval_end": "2018-10-31 12:45:00",
+      "energy": 5.98
+    },
+    {
+      "interval_end": "2018-10-31 13:00:00",
+      "energy": 6.01
+    },
+    {
+      "interval_end": "2018-10-31 13:15:00",
+      "energy": 38.77
+    },
+    {
+      "interval_end": "2018-10-31 13:30:00",
+      "energy": 71.06
+    },
+    {
+      "interval_end": "2018-10-31 13:45:00",
+      "energy": 87.3
+    },
+    {
+      "interval_end": "2018-10-31 14:00:00",
+      "energy": 96.37
+    },
+    {
+      "interval_end": "2018-10-31 14:15:00",
+      "energy": 112.25
+    },
+    {
+      "interval_end": "2018-10-31 14:30:00",
+      "energy": 97.09
+    },
+    {
+      "interval_end": "2018-10-31 14:45:00",
+      "energy": 48.56
+    },
+    {
+      "interval_end": "2018-10-31 15:00:00",
+      "energy": 49.18
+    },
+    {
+      "interval_end": "2018-10-31 15:15:00",
+      "energy": 49.46
+    },
+    {
+      "interval_end": "2018-10-31 15:30:00",
+      "energy": 61.16
+    },
+    {
+      "interval_end": "2018-10-31 15:45:00",
+      "energy": 58.1
+    },
+    {
+      "interval_end": "2018-10-31 16:00:00",
+      "energy": 56.88
+    },
+    {
+      "interval_end": "2018-10-31 16:15:00",
+      "energy": 50.76
+    },
+    {
+      "interval_end": "2018-10-31 16:30:00",
+      "energy": 67.75
+    },
+    {
+      "interval_end": "2018-10-31 16:45:00",
+      "energy": 59.9
+    },
+    {
+      "interval_end": "2018-10-31 17:00:00",
+      "energy": 73.51
+    },
+    {
+      "interval_end": "2018-10-31 17:15:00",
+      "energy": 62.35
+    },
+    {
+      "interval_end": "2018-10-31 17:30:00",
+      "energy": 97.96
+    },
+    {
+      "interval_end": "2018-10-31 17:45:00",
+      "energy": 31.36
+    },
+    {
+      "interval_end": "2018-10-31 18:00:00",
+      "energy": 31.72
+    },
+    {
+      "interval_end": "2018-10-31 18:15:00",
+      "energy": 46.76
+    },
+    {
+      "interval_end": "2018-10-31 18:30:00",
+      "energy": 50.33
+    },
+    {
+      "interval_end": "2018-10-31 18:45:00",
+      "energy": 113.58
+    },
+    {
+      "interval_end": "2018-10-31 19:00:00",
+      "energy": 97.24
+    },
+    {
+      "interval_end": "2018-10-31 19:15:00",
+      "energy": 96.48
+    },
+    {
+      "interval_end": "2018-10-31 19:30:00",
+      "energy": 119.23
+    },
+    {
+      "interval_end": "2018-10-31 19:45:00",
+      "energy": 101.77
+    },
+    {
+      "interval_end": "2018-10-31 20:00:00",
+      "energy": 103.86
+    },
+    {
+      "interval_end": "2018-10-31 20:15:00",
+      "energy": 91.66
+    },
+    {
+      "interval_end": "2018-10-31 20:30:00",
+      "energy": 82.33
+    },
+    {
+      "interval_end": "2018-10-31 20:45:00",
+      "energy": 82.76
+    },
+    {
+      "interval_end": "2018-10-31 21:00:00",
+      "energy": 45.07
+    },
+    {
+      "interval_end": "2018-10-31 21:15:00",
+      "energy": 6.84
+    },
+    {
+      "interval_end": "2018-10-31 21:30:00",
+      "energy": 4.43
+    },
+    {
+      "interval_end": "2018-10-31 21:45:00",
+      "energy": 4.43
+    },
+    {
+      "interval_end": "2018-10-31 22:00:00",
+      "energy": 4.39
+    },
+    {
+      "interval_end": "2018-10-31 22:15:00",
+      "energy": 4.18
+    },
+    {
+      "interval_end": "2018-10-31 22:30:00",
+      "energy": 4.14
+    },
+    {
+      "interval_end": "2018-10-31 22:45:00",
+      "energy": 4.07
+    },
+    {
+      "interval_end": "2018-10-31 23:00:00",
+      "energy": 3.96
+    },
+    {
+      "interval_end": "2018-10-31 23:15:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-31 23:30:00",
+      "energy": 3.89
+    },
+    {
+      "interval_end": "2018-10-31 23:45:00",
+      "energy": 3.92
+    }
+  ]
+}

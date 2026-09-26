@@ -1,0 +1,74 @@
+name: ddm501-assignment2-steel
+
+x-app: &app
+  build:
+    context: .
+    target: app
+  image: ddm501-assignment2-steel:1.0.0
+  environment: &environment
+    MLFLOW_TRACKING_URI: http://mlflow:5000
+    OUTPUT_DIR: /app/artifacts/run
+  volumes:
+    - ./artifacts:/app/artifacts
+
+services:
+  mlflow:
+    <<: *app
+    command: ["mlflow", "server", "--host", "0.0.0.0", "--port", "5000", "--workers", "1", "--backend-store-uri", "sqlite:////mlflow/mlflow.db", "--serve-artifacts", "--artifacts-destination", "/mlflow/artifacts"]
+    volumes:
+      - mlflow-state:/mlflow
+    ports:
+      - "127.0.0.1:${MLFLOW_PORT:-15030}:5000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5000/health')"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 15s
+
+  pipeline:
+    <<: *app
+    depends_on:
+      mlflow:
+        condition: service_healthy
+    command: ["python", "-m", "steel_energy.cli", "all", "--confirm-final", "--sensitivity"]
+
+  api:
+    <<: *app
+    profiles: [demo]
+    command: ["uvicorn", "steel_energy.api:app", "--host", "0.0.0.0", "--port", "8000"]
+    ports:
+      - "127.0.0.1:${API_PORT:-18030}:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+
+  airflow:
+    build:
+      context: .
+      target: airflow
+    image: ddm501-assignment2-airflow:1.0.0
+    profiles: [orchestration]
+    environment:
+      <<: *environment
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: sqlite:////var/lib/airflow/airflow.db
+    volumes:
+      - ./artifacts:/app/artifacts
+      - airflow-state:/var/lib/airflow
+    depends_on:
+      mlflow:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:${AIRFLOW_PORT:-18081}:8080"
+    healthcheck:
+      test: ["CMD", "/opt/airflow-venv/bin/python", "-c", "import json,urllib.request; h=json.load(urllib.request.urlopen('http://localhost:8080/health')); assert h['metadatabase']['status']=='healthy' and h['scheduler']['status']=='healthy'"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 45s
+
+volumes:
+  mlflow-state:
+  airflow-state:

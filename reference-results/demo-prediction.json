@@ -1,0 +1,14 @@
+{
+  "target_start": "2018-11-01 00:00:00",
+  "target_end": "2018-11-01 00:15:00",
+  "issued_at": "2018-10-31 23:46:00",
+  "forecast_kwh": 3.832845992063493,
+  "average_kw": 15.331383968253972,
+  "threshold_exceeded": false,
+  "advisory_enabled": false,
+  "calibration_pass": false,
+  "model_version": "1",
+  "model_sha256": "03524cb699ff86c6caa1564a29bc488c21a634b69fecb17c7169913c316fa599",
+  "production_approved": false,
+  "mode": "historical-benchmark-replay"
+}

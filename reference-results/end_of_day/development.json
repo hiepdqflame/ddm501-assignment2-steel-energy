@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+    "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+    "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  },
+  "policy": "end_of_day",
+  "selected_id": "E06",
+  "baseline_id": "E01",
+  "selection_metric": "pooled development MAE",
+  "results": [
+    {
+      "id": "E01",
+      "kind": "baseline",
+      "features": "full",
+      "mae": 7.801838768115942,
+      "rmse": 17.63825584997983,
+      "wape_pct": 33.109198094474884,
+      "bias": 0.00010190217391304633,
+      "n": 8832,
+      "fit_predict_seconds": 0.012500000000001066,
+      "mlflow_run_id": "138d081a80104cd6b42fba583d5880b2"
+    },
+    {
+      "id": "E02",
+      "kind": "baseline",
+      "features": "full",
+      "mae": 13.538223505434784,
+      "rmse": 26.0354375846496,
+      "wape_pct": 57.45308730559186,
+      "bias": 0.13508265398550717,
+      "n": 8832,
+      "fit_predict_seconds": 0.010157292000000595,
+      "mlflow_run_id": "037b4dd5bf3d4c39938da2af97d98e6d"
+    },
+    {
+      "id": "E03",
+      "kind": "baseline",
+      "features": "full",
+      "mae": 12.961529664855073,
+      "rmse": 24.920166423532166,
+      "wape_pct": 55.00573211470419,
+      "bias": 0.8050509510869567,
+      "n": 8832,
+      "fit_predict_seconds": 0.009492540999998411,
+      "mlflow_run_id": "7ca7a1f9bcfc4d4a8c650b80dc7a28d7"
+    },
+    {
+      "id": "E04",
+      "kind": "ridge",
+      "features": "full",
+      "mae": 8.570795082369303,
+      "rmse": 14.437146905673046,
+      "wape_pct": 36.3724707269033,
+      "bias": 0.07217063310257477,
+      "n": 8832,
+      "fit_predict_seconds": 0.019825459000001544,
+      "mlflow_run_id": "77a3181c560e418fbde6583ba03386ed"
+    },
+    {
+      "id": "E05",
+      "kind": "rf",
+      "features": "full",
+      "mae": 5.031557409841792,
+      "rmse": 10.665930475873328,
+      "wape_pct": 21.352765156720185,
+      "bias": 0.5405149033758754,
+      "n": 8832,
+      "fit_predict_seconds": 32.254994515,
+      "mlflow_run_id": "deb9d3177da74f08ba0ff63634f5f569"
+    },
+    {
+      "id": "E06",
+      "kind": "rf",
+      "features": "full",
+      "mae": 4.900870939608634,
+      "rmse": 10.486751720762612,
+      "wape_pct": 20.798162022789718,
+      "bias": 0.406450807693291,
+      "n": 8832,
+      "fit_predict_seconds": 64.846521322,
+      "mlflow_run_id": "38bfe99fb8d245d7b85f6d5483dcb3db"
+    },
+    {
+      "id": "E07",
+      "kind": "hgb",
+      "features": "full",
+      "mae": 5.08862048360891,
+      "rmse": 10.398667193018989,
+      "wape_pct": 21.59492763525746,
+      "bias": 0.3787612014202679,
+      "n": 8832,
+      "fit_predict_seconds": 0.9457959590000087,
+      "mlflow_run_id": "260e9e2badef4522b9384fbbe75aa4a5"
+    },
+    {
+      "id": "E08",
+      "kind": "hgb",
+      "features": "full",
+      "mae": 4.960282367337856,
+      "rmse": 10.330912005460803,
+      "wape_pct": 21.050290372045193,
+      "bias": 0.232451745443489,
+      "n": 8832,
+      "fit_predict_seconds": 1.2837937099999976,
+      "mlflow_run_id": "e8dc58b1b6104c38b7bf65f5ed61adaa"
+    },
+    {
+      "id": "E09",
+      "kind": "hgb",
+      "features": "full",
+      "mae": 5.039179769031948,
+      "rmse": 10.444899888164759,
+      "wape_pct": 21.385112685024094,
+      "bias": 0.18169985966931937,
+      "n": 8832,
+      "fit_predict_seconds": 1.2070066250000053,
+      "mlflow_run_id": "aef80ae3775c4c09a3f8abf4d9e5f073"
+    },
+    {
+      "id": "E10",
+      "kind": "hgb",
+      "features": "short",
+      "mae": 5.024619707104787,
+      "rmse": 10.538043363852761,
+      "wape_pct": 21.323323151948333,
+      "bias": 0.5608183369246298,
+      "n": 8832,
+      "fit_predict_seconds": 1.0529367920000112,
+      "mlflow_run_id": "b145d1c87c324427b8a9e0eb62ecd576"
+    }
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.12.76-linuxkit-aarch64-with-glibc2.36",
+    "machine": "aarch64",
+    "git_commit": "git-not-installed; use source_sha256",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.7.2",
+      "mlflow": "2.22.2",
+      "scipy": "1.18.1",
+      "joblib": "1.6.0"
+    }
+  }
+}

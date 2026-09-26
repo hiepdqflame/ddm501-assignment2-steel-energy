@@ -1,0 +1,45 @@
+{
+  "scope": "Warm HTTP round trip, Compose network, 672 readings/request, one Uvicorn worker. Includes parsing, features, model and transport; excludes meter ingestion. Hardware-specific observation, not an SLA.",
+  "warmup_requests": 10,
+  "payload_bytes": 53407,
+  "rows": [
+    {
+      "concurrency": 1,
+      "requests": 100,
+      "p50_ms": 5.745999999817286,
+      "p95_ms": 6.101891699836415,
+      "max_ms": 6.343999999899097,
+      "requests_per_second": 172.53089577178227
+    },
+    {
+      "concurrency": 4,
+      "requests": 100,
+      "p50_ms": 53.89950050016523,
+      "p95_ms": 70.4513142498854,
+      "max_ms": 90.98441699961768,
+      "requests_per_second": 74.03845099438149
+    },
+    {
+      "concurrency": 8,
+      "requests": 100,
+      "p50_ms": 97.98020849984823,
+      "p95_ms": 131.1978622000197,
+      "max_ms": 147.62770800007274,
+      "requests_per_second": 82.28680237491213
+    }
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.12.76-linuxkit-aarch64-with-glibc2.36",
+    "machine": "aarch64",
+    "git_commit": "git-not-installed; use source_sha256",
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.2.3",
+      "scikit-learn": "1.7.2",
+      "mlflow": "2.22.2",
+      "scipy": "1.18.1",
+      "joblib": "1.6.0"
+    }
+  }
+}

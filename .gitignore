@@ -1,0 +1,39 @@
+# Generated runs stay on the machine executing the benchmark.
+/artifacts/*
+!/artifacts/.gitkeep
+/mlruns/
+/runtime/
+/output/
+
+# Local environments, caches and editor state.
+.venv*/
+venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local configuration and credentials; the example is intentionally public.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+standalone_admin_password.txt
+
+# Large or machine-specific runtime outputs.
+*.joblib
+*.pkl
+*.pickle
+*.parquet
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.zip

@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+    "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+    "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  },
+  "policy": "end_of_day",
+  "raw_rows": 35040,
+  "feature_rows": 34368,
+  "features": [
+    "slot_sin",
+    "slot_cos",
+    "weekday_sin",
+    "weekday_cos",
+    "weekend",
+    "lag_2",
+    "lag_3",
+    "lag_4",
+    "lag_5",
+    "lag_6",
+    "lag_9",
+    "lag_17",
+    "lag_96",
+    "lag_672",
+    "mean_4",
+    "mean_16",
+    "mean_96"
+  ],
+  "features_sha256": "24e1c288bab527e13a431c5b94bda4df6a81e98f3a305a1736426c86ea6da9bc",
+  "first_interval": "2018-01-01 00:15:00",
+  "last_interval": "2019-01-01 00:00:00",
+  "timestamp_status": "Unconfirmed interval-end convention; literal sensitivity evaluated separately"
+}

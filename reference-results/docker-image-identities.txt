@@ -1,0 +1,2 @@
+[ddm501-assignment2-steel:1.0.0] sha256:9dbdd5c027bc14c65f30b2205692dd900f345d8168b0c00b17c9cc21239cb62b arm64
+[ddm501-assignment2-airflow:1.0.0] sha256:5136cf801ec0b57adb85f0547f4c95db61c04f064196fafee0c8e4e5130d0e65 arm64

@@ -1,0 +1,14 @@
+{
+  "fresh_zip_run": "passed",
+  "separate_registry": true,
+  "new_output_directory": true,
+  "test_rows": 5856,
+  "max_prediction_difference_kwh": 0.0,
+  "selected_id": "E06",
+  "mae": 4.703003712105337,
+  "source_identity": {
+    "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+    "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+    "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  }
+}

@@ -1,0 +1,27 @@
+name: Docker quality checks
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build application image
+        run: docker build --target app -t steel-energy-test .
+      - name: Temporal and serving regression tests
+        run: docker run --rm steel-energy-test python -m pytest tests -q
+      - name: Lint
+        run: docker run --rm steel-energy-test ruff check steel_energy tests dags scripts
+      - name: Compose service readiness
+        run: docker compose up -d --build --wait mlflow
+      - name: HTTP, corruption recovery and registry integration
+        run: docker compose run --rm --no-deps pipeline python scripts/integration_check.py
+      - name: Build isolated Airflow runtime
+        run: docker compose build airflow
+      - name: DAG imports and explicit confirmation contract
+        run: docker compose run --rm --no-deps airflow /opt/airflow-venv/bin/python scripts/check_dags.py
+      - name: Service logs
+        if: always()
+        run: docker compose logs --no-color
+      - name: Stop CI services
+        if: always()
+        run: docker compose --profile demo --profile orchestration down

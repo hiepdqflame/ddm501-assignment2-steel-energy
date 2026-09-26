@@ -1,0 +1,116 @@
+{
+  "identity": {
+    "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+    "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+    "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+  },
+  "frozen": {
+    "identity": {
+      "source_sha256": "f76082ee92e581e922cf966e9da0e98d8daf343fe84b550d368242d362e15075",
+      "config_sha256": "3c2d70ad98d885e61488b9afa0fbf2a5144f02bdfc96f58f71f1b80233e51f68",
+      "data_sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc"
+    },
+    "spec": {
+      "id": "E06",
+      "kind": "rf",
+      "n_estimators": 200,
+      "max_depth": null,
+      "min_samples_leaf": 2,
+      "features": "full"
+    },
+    "baseline_id": "E01",
+    "threshold_kwh": 80.48400000000008,
+    "margin_kwh": 0,
+    "calibration_pass": false,
+    "calibration_grid": [
+      {
+        "margin": 0,
+        "precision": 0.6903765690376569,
+        "recall": 0.6,
+        "true_positives": 165,
+        "false_positives": 74,
+        "false_negatives": 110,
+        "high_load_count": 275,
+        "alert_count": 239
+      },
+      {
+        "margin": 2,
+        "precision": 0.6768060836501901,
+        "recall": 0.6472727272727272,
+        "true_positives": 178,
+        "false_positives": 85,
+        "false_negatives": 97,
+        "high_load_count": 275,
+        "alert_count": 263
+      },
+      {
+        "margin": 4,
+        "precision": 0.6689655172413793,
+        "recall": 0.7054545454545454,
+        "true_positives": 194,
+        "false_positives": 96,
+        "false_negatives": 81,
+        "high_load_count": 275,
+        "alert_count": 290
+      },
+      {
+        "margin": 6,
+        "precision": 0.6480263157894737,
+        "recall": 0.7163636363636363,
+        "true_positives": 197,
+        "false_positives": 107,
+        "false_negatives": 78,
+        "high_load_count": 275,
+        "alert_count": 304
+      },
+      {
+        "margin": 8,
+        "precision": 0.628125,
+        "recall": 0.730909090909091,
+        "true_positives": 201,
+        "false_positives": 119,
+        "false_negatives": 74,
+        "high_load_count": 275,
+        "alert_count": 320
+      },
+      {
+        "margin": 10,
+        "precision": 0.5982658959537572,
+        "recall": 0.7527272727272727,
+        "true_positives": 207,
+        "false_positives": 139,
+        "false_negatives": 68,
+        "high_load_count": 275,
+        "alert_count": 346
+      }
+    ],
+    "calibration_metrics": {
+      "mae": 6.228863164005666,
+      "rmse": 12.559626310033318,
+      "wape_pct": 21.894471696704464,
+      "bias": -0.3597151814098384,
+      "n": 2976
+    },
+    "train_rows": 25535,
+    "calibration_rows": 2976,
+    "last_training_label": "2018-09-30 23:45:00",
+    "model_sha256": "03524cb699ff86c6caa1564a29bc488c21a634b69fecb17c7169913c316fa599",
+    "registered_name": "steel-energy-interval-forecast",
+    "registered_version": "1",
+    "run_id": "1c218d8163c748f9b588edbbd622a1a0",
+    "environment": {
+      "python": "3.12.14",
+      "platform": "Linux-6.12.76-linuxkit-aarch64-with-glibc2.36",
+      "machine": "aarch64",
+      "git_commit": "git-not-installed; use source_sha256",
+      "packages": {
+        "numpy": "2.2.6",
+        "pandas": "2.2.3",
+        "scikit-learn": "1.7.2",
+        "mlflow": "2.22.2",
+        "scipy": "1.18.1",
+        "joblib": "1.6.0"
+      }
+    }
+  }
+}
